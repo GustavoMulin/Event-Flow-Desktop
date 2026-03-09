@@ -1,0 +1,19 @@
+{
+ "eventos":[
+  {
+   "titulo":"Workshop de JavaScript",
+   "data":"10/04/2026",
+   "local":"Online"
+  },
+  {
+   "titulo":"Palestra de Tecnologia",
+   "data":"15/04/2026",
+   "local":"São Paulo"
+  },
+  {
+   "titulo":"Curso de Desenvolvimento Web",
+   "data":"20/04/2026",
+   "local":"Rio de Janeiro"
+  }
+ ]
+}
